@@ -63,7 +63,7 @@
         //EJECUTAMOS LA CONSULTA
         public function execute()
         {
-            $this->stmt->execute();
+            return $this->stmt->execute();
         }
 
         //OBTENER EL RESULTADO DE LA CONSULTA (MUCHOS)
