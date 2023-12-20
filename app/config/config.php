@@ -10,7 +10,7 @@
     define('RUTA_APP', dirname(dirname(__FILE__)));
 
     //VARIABLES
-    define('RUTA_URL',  'http://localhost/GitHub/Framework%20MVC/MVC');
-    define('SITENAME', '_SITE_NAME');
+    define('RUTA_URL',  'http://localhost/GitHub/FrameworkPHP');
+    define('SITENAME', 'CRUD');
 
 ?>
